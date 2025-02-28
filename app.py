@@ -20,12 +20,12 @@ if cidade != st.session_state.cidade:
 # Verificar se a cidade foi digitada
 if cidade:
     # Filtrando e exibindo os resultados
-    resultado = Dados[Dados["CIDADE "].str.contains(cidade.upper(), case=False, na=False)]
+    resultado = Dados[Dados["CIDADE"].str.contains(cidade.upper(), case=False, na=False)]
     
     # Se houver resultados
     if not resultado.empty:
         st.write(f"Resultados encontrados para {cidade}:")
-        st.write(resultado[["CIDADE ", "VALOR "]])
+        st.write(resultado[["CIDADE", "VALOR"]])
     else:
         st.write("Nenhum resultado encontrado para essa cidade.")
 
