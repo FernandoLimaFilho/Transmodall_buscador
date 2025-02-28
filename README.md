@@ -1,6 +1,6 @@
 # Buscador de Preço de Fretes pela Cidade - Transmodall
 
-Este repositório contém o código-fonte do **Buscador de Preço de Fretes pela Cidade** desenvolvido para a Transmodall Aduaneira, com o objetivo de facilitar a consulta de preços de frete para diferentes cidades. A ferramenta foi construída para melhorar a experiência dos clientes e otimizar o processo de cotação de fretes.
+Este repositório contém o código-fonte do **Buscador de Preço de Fretes pela Cidade**(https://transmodallbuscador-bt3u8gn4dc9egkltlxywsk.streamlit.app/) desenvolvido para a Transmodall Aduaneira, com o objetivo de facilitar a consulta de preços de frete para diferentes cidades. A ferramenta foi construída para melhorar a experiência dos clientes e otimizar o processo de cotação de fretes.
 
 ## Descrição
 
