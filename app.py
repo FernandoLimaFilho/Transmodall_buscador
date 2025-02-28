@@ -2,7 +2,7 @@ import pandas as pd  # Trabalhar com dados
 import streamlit as st
 
 # Carregar dados
-Dados = pd.read_csv(""tabela_fretes2025.csv")
+Dados = pd.read_csv("tabela_fretes2025.csv")
 
 st.title("Transmodall Aduaneira - Buscador de fretes por cidade")
 
